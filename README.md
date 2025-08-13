@@ -1,2 +1,6 @@
 # Estudos
-Codigos referentes aos meus estudos e testes
+
+
+-Comandos básicos Python 
+
+-Revisão e reforço Pyandantic
